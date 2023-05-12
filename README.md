@@ -9,5 +9,5 @@ Currently it takes 44 shots (median) to sinks all the ships. The goal is to reac
 
 ## Requirements
 
-`pip install numpy` 
+`pip install numpy`  
 `pip install matplotlib`
